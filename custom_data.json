@@ -6,7 +6,7 @@
      "is_in_school": 3,
      "current_in_city": 3,
      "now_detail_address": ["其他校外住址"],
-     "in_school_room_num":none,
+     "in_school_room_num":null,
      "current_district": "441901003",
      "current_region": ["142", "440000", "441900", "441901003"],
      "gps_district_name": "东城街道",
