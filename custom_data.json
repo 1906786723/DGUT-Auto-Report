@@ -16,4 +16,6 @@
      "reset_times": 0,
      "submit_times": 1,
      "is_reset_submit":False,
+     "hide_reset": False,
+    "can_reset_times": 1,
 }
