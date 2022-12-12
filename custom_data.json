@@ -12,10 +12,6 @@
      "gps_district_name": "东城街道",
      "gps_address_name": "广东省东莞市东城街道大新宾馆育华路-道路停车位",
      "gps_district": "441901003",
-     "now_detail_address_name": "其他校外住址",
-     "reset_times": 0,
-     "submit_times": 1,
-     "is_reset_submit":false,
-     "hide_reset": false,
-    "can_reset_times": 1
+     "now_detail_address_name": "其他校外住址"
+     
 }
