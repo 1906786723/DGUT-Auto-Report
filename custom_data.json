@@ -2,5 +2,15 @@
     "body_temperature": 36.6,
     "health_situation": 1,
     "is_in_school": 1,
-    "gps_district": "441901401"
+    "gps_district": "441901401",
+     "is_in_school": 3,
+     "current_in_city": 3,
+     "now_detail_address": ["其他校外住址"],
+     "in_school_room_num": None,
+     "current_district": "441901003",
+     "current_region": ["142", "440000", "441900", "441901003"],
+     "gps_district_name": "东城街道",
+     "gps_address_name": "广东省东莞市东城街道大新宾馆育华路-道路停车位",
+     "gps_district": "441901003",
+     "now_detail_address_name": "其他校外住址",
 }
